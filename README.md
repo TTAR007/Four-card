@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/4-cards-responsive-mobile-first-hEg6cO4wer)
-- Live Site URL: [Add live site URL here](https://ttar007.github.io/Four-card/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/4-cards-responsive-mobile-first-hEg6cO4wer)
+- Live Site URL: [Live site](https://ttar007.github.io/Four-card/)
 
 ## My process
 
