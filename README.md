@@ -71,4 +71,4 @@ In future projects, I will focus on using the right html tags and using "em or r
 
 - Website - [Add your name here](Not available yet.)
 - Frontend Mentor - [@TTAR007](https://www.frontendmentor.io/profile/TTAR007)
-- Twitter - [@T_TAR_007]([https://www.twitter.com/yourusername](https://x.com/T_TAR_007))
+- Twitter - [@T_TAR_007](https://x.com/T_TAR_007)
